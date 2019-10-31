@@ -1,0 +1,578 @@
+m_id,venue,t1_id,t2_id,wintype,city,man_of_the_match_id,match_winner,season_id
+335987,M Chinnaswamy Stadium,2,1,by runs,Bangalore,2,1,1
+335988,"Punjab Cricket Association Stadium, Mohali",4,3,by runs,Chandigarh,19,3,1
+335989,Feroz Shah Kotla,6,5,by wickets,Delhi,90,6,1
+335990,Wankhede Stadium,7,2,by wickets,Mumbai,11,2,1
+335991,Eden Gardens,1,8,by wickets,Kolkata,4,1,1
+335992,Sawai Mansingh Stadium,5,4,by wickets,Jaipur,32,5,1
+335993,"Rajiv Gandhi International Stadium, Uppal",8,6,by wickets,Hyderabad,41,6,1
+335994,"MA Chidambaram Stadium, Chepauk",3,7,by runs,Chennai,18,3,1
+335995,"Rajiv Gandhi International Stadium, Uppal",8,5,by wickets,Hyderabad,31,5,1
+335996,"Punjab Cricket Association Stadium, Mohali",4,7,by runs,Chandigarh,26,4,1
+335997,M Chinnaswamy Stadium,2,5,by wickets,Bangalore,32,5,1
+335998,"MA Chidambaram Stadium, Chepauk",3,1,by wickets,Chennai,22,3,1
+335999,Dr DY Patil Sports Academy,7,8,by wickets,Mumbai,53,8,1
+336000,"Punjab Cricket Association Stadium, Mohali",4,6,by wickets,Chandigarh,28,4,1
+336001,M Chinnaswamy Stadium,2,3,by runs,Bangalore,20,3,1
+336002,Eden Gardens,1,7,by wickets,Kolkata,44,7,1
+336003,Feroz Shah Kotla,6,2,by runs,Delhi,118,6,1
+336004,"Rajiv Gandhi International Stadium, Uppal",8,4,by wickets,Hyderabad,100,4,1
+336005,Sawai Mansingh Stadium,5,1,by runs,Jaipur,101,5,1
+336006,"MA Chidambaram Stadium, Chepauk",3,6,by wickets,Chennai,41,6,1
+336007,"Rajiv Gandhi International Stadium, Uppal",8,2,by wickets,Hyderabad,81,2,1
+336008,"Punjab Cricket Association Stadium, Mohali",4,1,by runs,Chandigarh,29,4,1
+336009,Dr DY Patil Sports Academy,7,6,by runs,Mumbai,49,7,1
+336010,Sawai Mansingh Stadium,5,3,by wickets,Jaipur,102,5,1
+336011,M Chinnaswamy Stadium,2,4,by wickets,Bangalore,77,4,1
+336012,"MA Chidambaram Stadium, Chepauk",3,8,by wickets,Chennai,53,8,1
+336013,Dr DY Patil Sports Academy,7,5,by wickets,Mumbai,73,7,1
+336014,Feroz Shah Kotla,6,3,by wickets,Delhi,20,3,1
+336015,Eden Gardens,1,2,by runs,Kolkata,1,1,1
+336016,Sawai Mansingh Stadium,5,8,by wickets,Jaipur,31,5,1
+336017,M Chinnaswamy Stadium,2,7,by wickets,Bangalore,149,7,1
+336018,"MA Chidambaram Stadium, Chepauk",3,4,by runs,Chennai,151,3,1
+336019,"Rajiv Gandhi International Stadium, Uppal",8,1,by runs,Hyderabad,1,1,1
+336020,Sawai Mansingh Stadium,5,6,by wickets,Jaipur,32,5,1
+336021,"Punjab Cricket Association Stadium, Mohali",4,2,by wickets,Chandigarh,100,4,1
+336022,Eden Gardens,1,6,by runs,Kolkata,144,1,1
+336023,Wankhede Stadium,7,3,by wickets,Mumbai,44,7,1
+336024,"Punjab Cricket Association Stadium, Mohali",4,5,by runs,Chandigarh,100,4,1
+336025,Feroz Shah Kotla,6,8,by runs,Delhi,136,6,1
+336026,Wankhede Stadium,7,1,by wickets,Mumbai,49,7,1
+336027,Feroz Shah Kotla,6,4,by runs,Delhi,64,4,1
+336028,Sawai Mansingh Stadium,5,2,by runs,Jaipur,74,5,1
+336029,"Rajiv Gandhi International Stadium, Uppal",8,7,by runs,Hyderabad,71,7,1
+336030,Eden Gardens,1,3,by runs,Kolkata,122,3,1
+336031,M Chinnaswamy Stadium,2,6,by wickets,Bangalore,132,6,1
+336032,Eden Gardens,1,5,by wickets,Kolkata,31,5,1
+336033,Wankhede Stadium,7,4,by runs,Mumbai,100,4,1
+336034,"MA Chidambaram Stadium, Chepauk",3,2,by runs,Chennai,124,2,1
+336036,"Punjab Cricket Association Stadium, Mohali",4,8,by wickets,Chandigarh,100,4,1
+336037,Feroz Shah Kotla,6,7,by wickets,Delhi,88,6,1
+336038,"MA Chidambaram Stadium, Chepauk",3,5,by runs,Chennai,109,5,1
+336039,M Chinnaswamy Stadium,2,8,by runs,Bangalore,14,2,1
+336040,Eden Gardens,1,4,by wickets,Kolkata,105,1,1
+336041,Sawai Mansingh Stadium,5,7,by wickets,Jaipur,102,5,1
+336042,"Rajiv Gandhi International Stadium, Uppal",8,3,by wickets,Hyderabad,21,3,1
+336043,Wankhede Stadium,6,5,by runs,Mumbai,32,5,1
+336044,Wankhede Stadium,3,4,by wickets,Mumbai,122,3,1
+336045,Dr DY Patil Sports Academy,3,5,by wickets,Mumbai,31,5,1
+392186,Newlands,3,7,by runs,Cape Town,133,7,2
+392187,Newlands,2,5,by runs,Cape Town,6,2,2
+392188,Newlands,6,4,by wickets,Cape Town,175,6,2
+392189,Newlands,8,1,by wickets,Cape Town,61,8,2
+392190,St George's Park,2,3,by runs,Port Elizabeth,121,3,2
+392191,Kingsmead,4,1,by runs,Durban,162,1,2
+392193,Newlands,2,8,by runs,Cape Town,53,8,2
+392194,Kingsmead,3,6,by runs,Durban,110,6,2
+392195,Newlands,1,5,Tie,Cape Town,31,5,2
+392196,Kingsmead,2,4,by wickets,Durban,161,4,2
+392197,Kingsmead,8,7,by runs,Durban,131,8,2
+392199,St George's Park,2,6,by wickets,Port Elizabeth,135,6,2
+392200,Newlands,4,5,by runs,Cape Town,26,4,2
+392201,Kingsmead,3,8,by wickets,Durban,97,8,2
+392202,St George's Park,1,7,by runs,Port Elizabeth,133,7,2
+392203,SuperSport Park,6,5,by wickets,Centurion,31,5,2
+392204,Kingsmead,2,1,by wickets,Durban,11,2,2
+392205,Kingsmead,4,7,by runs,Durban,26,4,2
+392206,SuperSport Park,8,6,by wickets,Centurion,223,6,2
+392207,SuperSport Park,3,5,by runs,Centurion,21,3,2
+392208,Buffalo Park,1,7,by runs,East London,154,7,2
+392209,Kingsmead,2,4,by runs,Durban,27,2,2
+392210,St George's Park,8,5,by wickets,Port Elizabeth,31,5,2
+392211,New Wanderers Stadium,3,6,by runs,Johannesburg,186,3,2
+392212,St George's Park,4,1,by wickets,Port Elizabeth,64,4,2
+392213,New Wanderers Stadium,2,7,by wickets,Johannesburg,9,2,2
+392214,Buffalo Park,3,8,by runs,East London,20,3,2
+392215,Kingsmead,4,5,by runs,Durban,74,5,2
+392216,Kingsmead,6,1,by wickets,Durban,40,6,2
+392217,SuperSport Park,8,7,by runs,Centurion,57,8,2
+392218,SuperSport Park,2,5,by wickets,Centurion,196,5,2
+392219,SuperSport Park,3,4,by runs,Centurion,18,3,2
+392220,Buffalo Park,6,7,by wickets,East London,73,6,2
+392221,De Beers Diamond Oval,8,4,by wickets,Kimberley,64,4,2
+392222,De Beers Diamond Oval,3,5,by wickets,Kimberley,23,3,2
+392223,St George's Park,2,7,by runs,Port Elizabeth,154,7,2
+392224,New Wanderers Stadium,6,1,by wickets,Johannesburg,136,6,2
+392225,De Beers Diamond Oval,8,5,by runs,Kimberley,147,8,2
+392226,SuperSport Park,2,1,by wickets,Centurion,52,2,2
+392227,SuperSport Park,4,7,by wickets,Centurion,50,7,2
+392228,Kingsmead,8,6,by runs,Durban,89,6,2
+392229,Kingsmead,2,3,by wickets,Durban,52,2,2
+392230,Kingsmead,7,5,by runs,Durban,38,5,2
+392231,OUTsurance Oval,6,4,by wickets,Bloemfontein,66,4,2
+392232,St George's Park,3,7,by wickets,Port Elizabeth,18,3,2
+392233,New Wanderers Stadium,8,1,by wickets,Johannesburg,57,8,2
+392234,New Wanderers Stadium,8,4,by runs,Johannesburg,27,4,2
+392235,OUTsurance Oval,6,5,by runs,Bloemfontein,110,6,2
+392236,SuperSport Park,3,1,by wickets,Centurion,104,1,2
+392237,New Wanderers Stadium,2,6,by wickets,Johannesburg,9,2,2
+392238,Kingsmead,1,5,by wickets,Durban,63,1,2
+392239,Kingsmead,3,4,by runs,Durban,121,3,2
+392240,SuperSport Park,6,7,by wickets,Centurion,41,6,2
+392241,SuperSport Park,2,8,by runs,Centurion,96,2,2
+392242,SuperSport Park,6,8,by wickets,Centurion,53,8,2
+392243,New Wanderers Stadium,2,3,by wickets,Johannesburg,96,2,2
+392244,New Wanderers Stadium,2,8,by runs,Johannesburg,124,8,2
+419111,Dr DY Patil Sports Academy,8,1,by runs,Mumbai,191,1,3
+419112,Brabourne Stadium,7,5,by runs,Mumbai,31,7,3
+419113,"Punjab Cricket Association Stadium, Mohali",4,6,by wickets,Chandigarh,40,6,3
+419114,Eden Gardens,1,2,by wickets,Kolkata,87,1,3
+419115,"MA Chidambaram Stadium, Chepauk",3,8,by runs,Chennai,60,8,3
+419116,"Sardar Patel Stadium, Motera",5,6,by wickets,Ahmedabad,41,6,3
+419117,M Chinnaswamy Stadium,2,4,by wickets,Bangalore,9,2,3
+419118,Eden Gardens,1,3,by runs,Kolkata,20,3,3
+419119,Feroz Shah Kotla,6,7,by runs,Delhi,133,7,3
+419120,M Chinnaswamy Stadium,2,5,by wickets,Bangalore,9,2,3
+419121,Feroz Shah Kotla,6,3,by wickets,Delhi,18,3,3
+419122,Barabati Stadium,8,4,by runs,Cuttack,56,8,3
+419123,"Sardar Patel Stadium, Motera",5,1,by runs,Ahmedabad,211,5,3
+419124,Brabourne Stadium,7,2,by wickets,Mumbai,9,2,3
+419125,Barabati Stadium,8,6,by runs,Cuttack,56,8,3
+419126,"MA Chidambaram Stadium, Chepauk",3,4,Tie,Chennai,233,4,3
+419127,Brabourne Stadium,7,1,by wickets,Mumbai,133,7,3
+419128,M Chinnaswamy Stadium,2,3,by runs,Bangalore,46,2,3
+419129,"Punjab Cricket Association Stadium, Mohali",4,5,by runs,Chandigarh,230,5,3
+419130,Brabourne Stadium,7,3,by wickets,Mumbai,133,7,3
+419131,"Sardar Patel Stadium, Motera",5,8,by wickets,Ahmedabad,31,5,3
+419132,"Punjab Cricket Association Stadium, Mohali",4,1,by runs,Chandigarh,87,1,3
+419133,M Chinnaswamy Stadium,2,6,by runs,Bangalore,237,6,3
+419134,"Sardar Patel Stadium, Motera",5,3,by runs,Ahmedabad,183,5,3
+419135,Dr DY Patil Sports Academy,8,7,by runs,Mumbai,50,7,3
+419136,Feroz Shah Kotla,6,1,by runs,Delhi,187,6,3
+419137,Brabourne Stadium,7,4,by wickets,Mumbai,194,7,3
+419138,"MA Chidambaram Stadium, Chepauk",3,2,by wickets,Chennai,185,3,3
+419139,Feroz Shah Kotla,6,5,by runs,Delhi,88,6,3
+419140,Eden Gardens,1,8,by runs,Kolkata,1,1,3
+419141,"Punjab Cricket Association Stadium, Mohali",4,2,by wickets,Chandigarh,158,2,3
+419142,"MA Chidambaram Stadium, Chepauk",3,5,by runs,Chennai,185,3,3
+419143,Brabourne Stadium,7,8,by runs,Mumbai,208,7,3
+419144,Eden Gardens,1,4,by wickets,Kolkata,64,4,3
+419145,Feroz Shah Kotla,6,2,by runs,Delhi,241,6,3
+419146,"Vidarbha Cricket Association Stadium, Jamtha",8,5,by runs,Nagpur,38,5,3
+419147,"MA Chidambaram Stadium, Chepauk",3,7,by runs,Chennai,21,3,3
+419148,Sawai Mansingh Stadium,5,4,by wickets,Jaipur,224,5,3
+419149,Eden Gardens,1,6,by runs,Kolkata,1,1,3
+419150,M Chinnaswamy Stadium,2,8,by wickets,Bangalore,178,8,3
+419151,"Punjab Cricket Association Stadium, Mohali",4,7,by wickets,Chandigarh,26,4,3
+419152,"Vidarbha Cricket Association Stadium, Jamtha",8,3,by wickets,Nagpur,188,8,3
+419153,M Chinnaswamy Stadium,2,1,by wickets,Bangalore,81,2,3
+419154,Feroz Shah Kotla,6,4,by wickets,Delhi,67,4,3
+419155,Sawai Mansingh Stadium,5,7,by runs,Jaipur,133,7,3
+419156,"Vidarbha Cricket Association Stadium, Jamtha",8,2,by runs,Nagpur,256,8,3
+419157,Brabourne Stadium,7,6,by runs,Mumbai,221,7,3
+419158,"MA Chidambaram Stadium, Chepauk",3,1,by wickets,Chennai,201,3,3
+419159,Sawai Mansingh Stadium,5,2,by wickets,Jaipur,158,2,3
+419160,"MA Chidambaram Stadium, Chepauk",3,6,by wickets,Chennai,40,6,3
+419161,Himachal Pradesh Cricket Association Stadium,4,8,by wickets,Dharamsala,57,8,3
+419162,M Chinnaswamy Stadium,2,7,by runs,Bangalore,210,7,3
+419163,Eden Gardens,1,5,by wickets,Kolkata,346,1,3
+419164,Himachal Pradesh Cricket Association Stadium,4,3,by wickets,Dharamsala,20,3,3
+419165,Feroz Shah Kotla,6,8,by runs,Delhi,56,8,3
+419166,Eden Gardens,1,7,by wickets,Kolkata,83,1,3
+419167,Dr DY Patil Sports Academy,2,7,by runs,Mumbai,221,7,3
+419168,Dr DY Patil Sports Academy,3,8,by runs,Mumbai,248,3,3
+419169,Dr DY Patil Sports Academy,2,8,by wickets,Mumbai,124,2,3
+419170,Dr DY Patil Sports Academy,3,7,by runs,Mumbai,21,3,3
+501203,"MA Chidambaram Stadium, Chepauk",3,1,by runs,Chennai,125,3,4
+501204,"Rajiv Gandhi International Stadium, Uppal",8,5,by wickets,Hyderabad,39,5,4
+501205,Nehru Stadium,9,2,by wickets,Kochi,110,2,4
+501206,Feroz Shah Kotla,6,7,by wickets,Delhi,194,7,4
+501207,Dr DY Patil Sports Academy,10,4,by wickets,Mumbai,273,10,4
+501208,Eden Gardens,1,8,by runs,Kolkata,9,1,4
+501209,Sawai Mansingh Stadium,5,6,by wickets,Jaipur,38,5,4
+501210,M Chinnaswamy Stadium,2,7,by wickets,Bangalore,133,7,4
+501211,"Punjab Cricket Association Stadium, Mohali",4,3,by wickets,Chandigarh,167,4,4
+501212,Dr DY Patil Sports Academy,10,9,by wickets,Mumbai,231,10,4
+501213,"Rajiv Gandhi International Stadium, Uppal",8,2,by runs,Hyderabad,94,8,4
+501214,Sawai Mansingh Stadium,5,1,by wickets,Jaipur,40,1,4
+501215,Wankhede Stadium,7,9,by wickets,Mumbai,2,9,4
+501216,"MA Chidambaram Stadium, Chepauk",3,2,by runs,Chennai,19,3,4
+501217,"Rajiv Gandhi International Stadium, Uppal",8,4,by wickets,Hyderabad,167,4,4
+501218,Dr DY Patil Sports Academy,10,6,by wickets,Mumbai,27,6,4
+501219,Eden Gardens,1,5,by wickets,Kolkata,151,1,4
+501220,Nehru Stadium,9,3,by wickets,Kochi,2,9,4
+501221,Feroz Shah Kotla,6,8,by runs,Delhi,65,8,4
+501223,Wankhede Stadium,7,10,by wickets,Mumbai,126,7,4
+501224,Eden Gardens,1,9,by runs,Kolkata,64,9,4
+501225,"Punjab Cricket Association Stadium, Mohali",4,5,by runs,Chandigarh,100,4,4
+501226,Wankhede Stadium,7,3,by runs,Mumbai,50,7,4
+501227,Eden Gardens,1,2,by wickets,Kolkata,162,2,4
+501228,Feroz Shah Kotla,6,4,by runs,Delhi,187,6,4
+501229,"Rajiv Gandhi International Stadium, Uppal",8,7,by runs,Hyderabad,194,7,4
+501230,Sawai Mansingh Stadium,5,9,by wickets,Jaipur,38,5,4
+501231,"MA Chidambaram Stadium, Chepauk",3,10,by runs,Chennai,19,3,4
+501232,Feroz Shah Kotla,6,2,by wickets,Delhi,8,2,4
+501233,Dr DY Patil Sports Academy,10,3,by wickets,Mumbai,248,3,4
+501234,Nehru Stadium,9,8,by runs,Kochi,84,8,4
+501235,Feroz Shah Kotla,6,1,by runs,Delhi,87,1,4
+501236,Sawai Mansingh Stadium,5,7,by wickets,Jaipur,192,5,4
+501237,M Chinnaswamy Stadium,2,10,by runs,Bangalore,8,2,4
+501238,Nehru Stadium,9,6,by runs,Kochi,41,6,4
+501239,Eden Gardens,1,4,by wickets,Kolkata,140,1,4
+501240,Sawai Mansingh Stadium,5,10,by wickets,Jaipur,52,5,4
+501241,"MA Chidambaram Stadium, Chepauk",3,8,by runs,Chennai,109,3,4
+501242,Wankhede Stadium,7,4,by runs,Mumbai,221,7,4
+501243,Feroz Shah Kotla,6,9,by wickets,Delhi,294,9,4
+501244,"Rajiv Gandhi International Stadium, Uppal",8,1,by runs,Hyderabad,31,1,4
+501245,"MA Chidambaram Stadium, Chepauk",3,5,by wickets,Chennai,19,3,4
+501246,Dr DY Patil Sports Academy,10,7,by runs,Mumbai,235,7,4
+501247,Nehru Stadium,9,1,by runs,Kochi,104,9,4
+501248,"Rajiv Gandhi International Stadium, Uppal",8,6,by wickets,Hyderabad,41,6,4
+501249,M Chinnaswamy Stadium,2,4,by runs,Bangalore,162,2,4
+501250,Eden Gardens,1,3,by runs,Kolkata,140,1,4
+501251,Wankhede Stadium,7,6,by runs,Mumbai,208,7,4
+501252,M Chinnaswamy Stadium,2,9,by wickets,Bangalore,162,2,4
+501253,"Punjab Cricket Association Stadium, Mohali",4,10,by wickets,Chandigarh,235,10,4
+501254,Sawai Mansingh Stadium,5,3,by runs,Jaipur,185,3,4
+501255,"Rajiv Gandhi International Stadium, Uppal",8,10,by wickets,Hyderabad,253,10,4
+501256,"Punjab Cricket Association Stadium, Mohali",4,7,by runs,Chandigarh,302,4,4
+501257,Sawai Mansingh Stadium,5,2,by wickets,Jaipur,270,2,4
+501258,"MA Chidambaram Stadium, Chepauk",3,6,by runs,Chennai,20,3,4
+501259,Holkar Cricket Stadium,9,4,by wickets,Indore,88,4,4
+501260,M Chinnaswamy Stadium,2,1,by wickets,Bangalore,162,2,4
+501261,Wankhede Stadium,7,8,by runs,Mumbai,136,8,4
+501262,Himachal Pradesh Cricket Association Stadium,4,6,by runs,Dharamsala,67,4,4
+501263,Holkar Cricket Stadium,9,5,by wickets,Indore,104,9,4
+501264,Dr DY Patil Sports Academy,10,8,by wickets,Mumbai,136,8,4
+501265,Himachal Pradesh Cricket Association Stadium,4,2,by runs,Dharamsala,53,4,4
+501266,"MA Chidambaram Stadium, Chepauk",3,9,by runs,Chennai,62,3,4
+501267,Dr DY Patil Sports Academy,10,1,by wickets,Mumbai,31,1,4
+501268,Wankhede Stadium,7,5,by wickets,Mumbai,32,5,4
+501269,Himachal Pradesh Cricket Association Stadium,4,8,by runs,Dharamsala,42,8,4
+501270,Feroz Shah Kotla,6,10,No Result,Delhi,,,4
+501271,M Chinnaswamy Stadium,2,3,by wickets,Bangalore,162,2,4
+501272,Eden Gardens,1,7,by wickets,Kolkata,275,7,4
+501273,Wankhede Stadium,2,3,by wickets,Mumbai,21,3,4
+501274,Wankhede Stadium,7,1,by wickets,Mumbai,126,7,4
+501275,"MA Chidambaram Stadium, Chepauk",2,7,by runs,Chennai,162,2,4
+501276,"MA Chidambaram Stadium, Chepauk",3,2,by runs,Chennai,185,3,4
+548311,"MA Chidambaram Stadium, Chepauk",3,7,by wickets,Chennai,304,7,5
+548312,Eden Gardens,1,6,by wickets,Kolkata,29,6,5
+548313,Wankhede Stadium,7,10,by runs,Mumbai,306,10,5
+548314,Sawai Mansingh Stadium,5,4,by runs,Jaipur,85,5,5
+548315,M Chinnaswamy Stadium,2,6,by runs,Bangalore,110,2,5
+548316,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,8,3,by runs,Visakhapatnam,35,3,5
+548317,Sawai Mansingh Stadium,5,1,by runs,Jaipur,104,5,5
+548318,Subrata Roy Sahara Stadium,10,4,by runs,Pune,307,10,5
+548319,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,8,7,by wickets,Visakhapatnam,57,7,5
+548320,M Chinnaswamy Stadium,2,1,by runs,Bangalore,151,1,5
+548321,Feroz Shah Kotla,6,3,by wickets,Delhi,190,6,5
+548322,Wankhede Stadium,7,5,by runs,Mumbai,221,7,5
+548323,"MA Chidambaram Stadium, Chepauk",3,2,by wickets,Chennai,303,3,5
+548324,"Punjab Cricket Association Stadium, Mohali",4,10,by wickets,Chandigarh,137,4,5
+548325,Eden Gardens,1,5,by wickets,Kolkata,276,1,5
+548326,Feroz Shah Kotla,6,8,by wickets,Delhi,158,6,5
+548327,Subrata Roy Sahara Stadium,10,3,by wickets,Pune,157,10,5
+548328,Eden Gardens,1,4,by runs,Kolkata,315,4,5
+548329,M Chinnaswamy Stadium,2,5,by runs,Bangalore,85,5,5
+548330,Wankhede Stadium,7,6,by wickets,Mumbai,293,6,5
+548331,Sawai Mansingh Stadium,5,8,by wickets,Jaipur,104,5,5
+548332,M Chinnaswamy Stadium,2,10,by wickets,Bangalore,162,2,5
+548333,"Punjab Cricket Association Stadium, Mohali",4,1,by wickets,Chandigarh,40,1,5
+548334,"Rajiv Gandhi International Stadium, Uppal",8,6,by wickets,Hyderabad,187,6,5
+548335,"MA Chidambaram Stadium, Chepauk",3,10,by runs,Chennai,324,3,5
+548336,"Punjab Cricket Association Stadium, Mohali",4,2,by wickets,Chandigarh,162,2,5
+548337,"MA Chidambaram Stadium, Chepauk",3,5,by wickets,Chennai,303,3,5
+548338,Feroz Shah Kotla,6,10,by runs,Delhi,1,10,5
+548339,Wankhede Stadium,7,4,by wickets,Mumbai,100,4,5
+548340,Barabati Stadium,8,1,by wickets,Cuttack,66,1,5
+548341,Sawai Mansingh Stadium,5,2,by runs,Jaipur,110,2,5
+548342,Subrata Roy Sahara Stadium,10,6,by wickets,Pune,41,6,5
+548344,"Punjab Cricket Association Stadium, Mohali",4,7,by wickets,Chandigarh,208,7,5
+548346,Subrata Roy Sahara Stadium,10,8,by runs,Pune,10,8,5
+548347,Feroz Shah Kotla,6,7,by runs,Delhi,41,6,5
+548348,"MA Chidambaram Stadium, Chepauk",3,4,by runs,Chennai,236,4,5
+548349,Eden Gardens,1,2,by runs,Kolkata,40,1,5
+548350,Feroz Shah Kotla,6,5,by runs,Delhi,41,6,5
+548351,Wankhede Stadium,7,8,by wickets,Mumbai,94,7,5
+548352,"MA Chidambaram Stadium, Chepauk",3,1,by wickets,Chennai,40,1,5
+548353,Barabati Stadium,8,10,by runs,Cuttack,26,8,5
+548354,Sawai Mansingh Stadium,5,6,by wickets,Jaipur,322,6,5
+548355,M Chinnaswamy Stadium,2,4,by wickets,Bangalore,321,4,5
+548356,Subrata Roy Sahara Stadium,10,7,by runs,Pune,194,7,5
+548357,"MA Chidambaram Stadium, Chepauk",3,8,by runs,Chennai,21,3,5
+548358,Eden Gardens,1,10,by runs,Kolkata,315,1,5
+548359,"Punjab Cricket Association Stadium, Mohali",4,5,by runs,Chandigarh,32,5,5
+548360,Wankhede Stadium,7,3,by wickets,Mumbai,147,7,5
+548361,M Chinnaswamy Stadium,2,8,by wickets,Bangalore,110,2,5
+548362,Feroz Shah Kotla,6,1,by wickets,Delhi,9,1,5
+548363,Subrata Roy Sahara Stadium,10,5,by wickets,Pune,32,5,5
+548364,"Rajiv Gandhi International Stadium, Uppal",8,4,by runs,Hyderabad,236,4,5
+548365,Wankhede Stadium,7,2,by wickets,Mumbai,162,2,5
+548366,Sawai Mansingh Stadium,5,3,by wickets,Jaipur,451,3,5
+548367,Subrata Roy Sahara Stadium,10,2,by runs,Pune,162,2,5
+548368,Eden Gardens,1,7,by runs,Kolkata,57,7,5
+548369,"MA Chidambaram Stadium, Chepauk",3,6,by wickets,Chennai,451,3,5
+548370,Sawai Mansingh Stadium,5,10,by runs,Jaipur,335,5,5
+548371,"Punjab Cricket Association Stadium, Mohali",4,8,by wickets,Chandigarh,4,4,5
+548372,M Chinnaswamy Stadium,2,7,by wickets,Bangalore,208,7,5
+548373,Eden Gardens,1,3,by wickets,Kolkata,19,3,5
+548374,Feroz Shah Kotla,6,4,by wickets,Delhi,232,6,5
+548375,Wankhede Stadium,7,1,by runs,Mumbai,315,1,5
+548376,Himachal Pradesh Cricket Association Stadium,4,3,by wickets,Dharamsala,53,4,5
+548377,Feroz Shah Kotla,6,2,by runs,Delhi,162,2,5
+548378,"Rajiv Gandhi International Stadium, Uppal",8,5,by wickets,Hyderabad,94,8,5
+548379,Himachal Pradesh Cricket Association Stadium,4,6,by wickets,Dharamsala,232,6,5
+548380,Subrata Roy Sahara Stadium,10,1,by runs,Pune,276,1,5
+548381,"Rajiv Gandhi International Stadium, Uppal",8,2,by runs,Hyderabad,94,8,5
+548382,Sawai Mansingh Stadium,5,7,by wickets,Jaipur,147,7,5
+548383,Subrata Roy Sahara Stadium,6,1,by runs,Pune,31,1,5
+548384,M Chinnaswamy Stadium,3,7,by runs,Bangalore,20,3,5
+548385,"MA Chidambaram Stadium, Chepauk",6,3,by runs,Chennai,185,3,5
+548386,"MA Chidambaram Stadium, Chepauk",1,3,by wickets,Chennai,214,1,5
+598003,Eden Gardens,1,6,by wickets,Kolkata,315,1,6
+598004,M Chinnaswamy Stadium,2,7,by runs,Bangalore,162,2,6
+598005,"Rajiv Gandhi International Stadium, Uppal",11,10,by runs,Hyderabad,136,11,6
+598006,Feroz Shah Kotla,6,5,by runs,Delhi,6,5,6
+598007,"MA Chidambaram Stadium, Chepauk",3,7,by runs,Chennai,221,7,6
+598008,Subrata Roy Sahara Stadium,10,4,by wickets,Pune,345,4,6
+598009,"Rajiv Gandhi International Stadium, Uppal",11,2,Tie,Hyderabad,340,11,6
+598010,Sawai Mansingh Stadium,5,1,by runs,Jaipur,39,5,6
+598011,Wankhede Stadium,7,6,by runs,Mumbai,88,7,6
+598012,"Punjab Cricket Association Stadium, Mohali",4,3,by wickets,Chandigarh,19,3,6
+598013,M Chinnaswamy Stadium,2,1,by wickets,Bangalore,162,2,6
+598014,Subrata Roy Sahara Stadium,10,5,by wickets,Pune,254,10,6
+598015,Feroz Shah Kotla,6,11,by wickets,Delhi,136,11,6
+598016,Wankhede Stadium,7,10,by runs,Mumbai,57,7,6
+598017,"MA Chidambaram Stadium, Chepauk",3,2,by wickets,Chennai,35,3,6
+598018,Eden Gardens,1,11,by runs,Kolkata,40,1,6
+598019,Sawai Mansingh Stadium,5,4,by wickets,Jaipur,310,5,6
+598020,"MA Chidambaram Stadium, Chepauk",3,10,by runs,Chennai,306,10,6
+598021,"Punjab Cricket Association Stadium, Mohali",4,1,by runs,Chandigarh,120,4,6
+598022,M Chinnaswamy Stadium,2,6,Tie,Bangalore,8,2,6
+598023,Subrata Roy Sahara Stadium,10,11,by runs,Pune,136,11,6
+598024,Sawai Mansingh Stadium,5,7,by runs,Jaipur,85,5,6
+598025,Feroz Shah Kotla,6,3,by runs,Delhi,19,3,6
+598026,"Rajiv Gandhi International Stadium, Uppal",11,4,by wickets,Hyderabad,340,11,6
+598027,Eden Gardens,1,3,by wickets,Kolkata,35,3,6
+598028,M Chinnaswamy Stadium,2,5,by wickets,Bangalore,81,2,6
+598029,Feroz Shah Kotla,6,7,by wickets,Delhi,41,6,6
+598030,"Punjab Cricket Association Stadium, Mohali",4,10,by wickets,Chandigarh,320,4,6
+598031,"MA Chidambaram Stadium, Chepauk",3,5,by wickets,Chennai,19,3,6
+598032,M Chinnaswamy Stadium,2,10,by runs,Bangalore,162,2,6
+598033,Himachal Pradesh Cricket Association Stadium,4,6,by runs,Dharamsala,320,4,6
+598034,Eden Gardens,1,7,by wickets,Kolkata,147,7,6
+598035,"MA Chidambaram Stadium, Chepauk",3,11,by wickets,Chennai,20,3,6
+598036,Eden Gardens,1,4,by wickets,Kolkata,9,1,6
+598037,Sawai Mansingh Stadium,5,11,by wickets,Jaipur,310,5,6
+598038,Wankhede Stadium,7,2,by runs,Mumbai,147,7,6
+598039,"MA Chidambaram Stadium, Chepauk",3,1,by runs,Chennai,19,3,6
+598040,Shaheed Veer Narayan Singh International Stadium,6,10,by runs,Raipur,187,6,6
+598041,Sawai Mansingh Stadium,5,2,by wickets,Jaipur,351,5,6
+598042,Wankhede Stadium,7,4,by runs,Mumbai,57,7,6
+598043,Subrata Roy Sahara Stadium,10,3,by runs,Pune,20,3,6
+598044,"Rajiv Gandhi International Stadium, Uppal",11,7,by wickets,Hyderabad,84,11,6
+598045,Shaheed Veer Narayan Singh International Stadium,6,1,by wickets,Raipur,187,6,6
+598046,"MA Chidambaram Stadium, Chepauk",3,4,by runs,Chennai,21,3,6
+598047,Subrata Roy Sahara Stadium,10,2,by runs,Pune,110,2,6
+598048,Eden Gardens,1,5,by wickets,Kolkata,31,1,6
+598049,"Rajiv Gandhi International Stadium, Uppal",11,6,by wickets,Hyderabad,362,11,6
+598050,M Chinnaswamy Stadium,2,4,by wickets,Bangalore,53,4,6
+598051,Wankhede Stadium,7,3,by runs,Mumbai,357,7,6
+598052,Sawai Mansingh Stadium,5,10,by wickets,Jaipur,85,5,6
+598053,M Chinnaswamy Stadium,2,11,by wickets,Bangalore,8,2,6
+598054,Sawai Mansingh Stadium,5,6,by wickets,Jaipur,85,5,6
+598055,Wankhede Stadium,7,1,by runs,Mumbai,133,7,6
+598056,"Rajiv Gandhi International Stadium, Uppal",11,3,by runs,Hyderabad,21,3,6
+598057,"Punjab Cricket Association Stadium, Mohali",4,5,by wickets,Chandigarh,309,5,6
+598058,Subrata Roy Sahara Stadium,10,1,by runs,Pune,40,1,6
+598059,Feroz Shah Kotla,6,2,by runs,Delhi,346,2,6
+598060,Subrata Roy Sahara Stadium,10,7,by wickets,Pune,357,7,6
+598061,"Punjab Cricket Association Stadium, Mohali",4,11,by runs,Chandigarh,17,11,6
+598062,JSCA International Stadium Complex,1,2,by wickets,Ranchi,9,1,6
+598063,Sawai Mansingh Stadium,5,3,by wickets,Jaipur,32,5,6
+598064,Feroz Shah Kotla,6,4,by wickets,Delhi,256,4,6
+598065,Wankhede Stadium,7,11,by wickets,Mumbai,221,7,6
+598066,JSCA International Stadium Complex,1,10,by runs,Ranchi,96,10,6
+598067,"MA Chidambaram Stadium, Chepauk",3,6,by runs,Chennai,20,3,6
+598068,Wankhede Stadium,7,5,by runs,Mumbai,207,7,6
+598069,"Punjab Cricket Association Stadium, Mohali",4,2,by wickets,Chandigarh,320,4,6
+598070,"Rajiv Gandhi International Stadium, Uppal",11,5,by runs,Hyderabad,136,11,6
+598071,Himachal Pradesh Cricket Association Stadium,4,7,by runs,Dharamsala,321,4,6
+598072,Subrata Roy Sahara Stadium,10,6,by runs,Pune,358,10,6
+598073,M Chinnaswamy Stadium,2,3,by runs,Bangalore,8,2,6
+598074,"Rajiv Gandhi International Stadium, Uppal",11,1,by wickets,Hyderabad,17,11,6
+598075,Feroz Shah Kotla,3,7,by runs,Delhi,19,3,6
+598076,Feroz Shah Kotla,5,11,by wickets,Delhi,104,5,6
+598077,Eden Gardens,7,5,by wickets,Kolkata,50,7,6
+598078,Eden Gardens,3,7,by runs,Kolkata,221,7,6
+729284,Sheikh Zayed Stadium,7,1,by runs,Abu Dhabi,9,1,7
+729286,Sharjah Cricket Stadium,6,2,by wickets,Abu Dhabi,382,2,7
+729288,Sheikh Zayed Stadium,3,4,by wickets,Abu Dhabi,305,4,7
+729290,Sheikh Zayed Stadium,11,5,by wickets,Abu Dhabi,85,5,7
+729292,Dubai International Cricket Stadium,2,7,by wickets,Abu Dhabi,17,2,7
+729294,Dubai International Cricket Stadium,1,6,by wickets,Abu Dhabi,154,6,7
+729296,Sharjah Cricket Stadium,5,4,by wickets,Abu Dhabi,305,4,7
+729298,Sheikh Zayed Stadium,3,6,by runs,Abu Dhabi,21,3,7
+729300,Sharjah Cricket Stadium,4,11,by runs,Abu Dhabi,305,4,7
+729302,Dubai International Cricket Stadium,5,3,by runs,Abu Dhabi,35,3,7
+729304,Sharjah Cricket Stadium,2,1,by runs,Abu Dhabi,336,1,7
+729306,Dubai International Cricket Stadium,11,6,by runs,Abu Dhabi,254,11,7
+729308,Dubai International Cricket Stadium,3,7,by wickets,Abu Dhabi,364,3,7
+729310,Sheikh Zayed Stadium,5,2,by wickets,Abu Dhabi,370,5,7
+729312,Sheikh Zayed Stadium,1,4,by runs,Abu Dhabi,367,4,7
+729314,Sharjah Cricket Stadium,6,7,by wickets,Abu Dhabi,185,6,7
+729316,Sharjah Cricket Stadium,11,3,by wickets,Abu Dhabi,147,3,7
+729318,Dubai International Cricket Stadium,4,2,by wickets,Abu Dhabi,367,4,7
+729320,Sheikh Zayed Stadium,1,5,Tie,Abu Dhabi,310,5,7
+729322,Dubai International Cricket Stadium,7,11,by runs,Abu Dhabi,299,11,7
+733976,JSCA International Stadium Complex,3,1,by runs,Ranchi,35,3,7
+733978,Wankhede Stadium,7,4,by wickets,Mumbai,372,7,7
+733980,Feroz Shah Kotla,6,5,by wickets,Delhi,339,5,7
+733982,M Chinnaswamy Stadium,2,11,by wickets,Bangalore,110,2,7
+733984,"Sardar Patel Stadium, Motera",5,1,by runs,Ahmedabad,370,5,7
+733986,Feroz Shah Kotla,6,3,by wickets,Delhi,147,3,7
+733988,Wankhede Stadium,7,2,by runs,Mumbai,57,7,7
+733990,Feroz Shah Kotla,6,1,by wickets,Delhi,40,1,7
+733992,Barabati Stadium,4,3,by runs,Cuttack,305,4,7
+733994,"Sardar Patel Stadium, Motera",5,11,by runs,Ahmedabad,299,11,7
+733996,M Chinnaswamy Stadium,2,4,by runs,Bangalore,367,4,7
+733998,Feroz Shah Kotla,6,11,by wickets,Delhi,94,11,7
+734000,Wankhede Stadium,7,3,by wickets,Mumbai,147,3,7
+734002,Barabati Stadium,4,1,by wickets,Cuttack,40,1,7
+734004,M Chinnaswamy Stadium,2,5,by wickets,Bangalore,310,5,7
+734006,"Rajiv Gandhi International Stadium, Uppal",11,7,by wickets,Hyderabad,208,7,7
+734008,JSCA International Stadium Complex,3,5,by wickets,Ranchi,35,3,7
+734010,M Chinnaswamy Stadium,2,6,by runs,Bangalore,27,2,7
+734012,"Rajiv Gandhi International Stadium, Uppal",11,4,by wickets,Hyderabad,62,4,7
+734014,Barabati Stadium,1,7,by wickets,Cuttack,46,1,7
+734016,"Sardar Patel Stadium, Motera",5,6,by runs,Ahmedabad,85,5,7
+734018,JSCA International Stadium Complex,3,2,by wickets,Ranchi,110,2,7
+734020,"Rajiv Gandhi International Stadium, Uppal",11,1,by wickets,Hyderabad,232,1,7
+734022,"Sardar Patel Stadium, Motera",5,7,by runs,Ahmedabad,19,7,7
+734024,Feroz Shah Kotla,6,4,by wickets,Delhi,374,4,7
+734026,"Rajiv Gandhi International Stadium, Uppal",11,2,by wickets,Hyderabad,187,11,7
+734028,Eden Gardens,1,3,by wickets,Kolkata,46,1,7
+734030,"Punjab Cricket Association Stadium, Mohali",4,7,by wickets,Chandigarh,383,7,7
+734032,Eden Gardens,1,2,by runs,Kolkata,46,1,7
+734034,JSCA International Stadium Complex,3,11,by wickets,Ranchi,187,11,7
+734036,Wankhede Stadium,7,6,by runs,Mumbai,19,7,7
+734038,"Punjab Cricket Association Stadium, Mohali",4,5,by runs,Chandigarh,100,4,7
+734040,M Chinnaswamy Stadium,2,3,by wickets,Bangalore,20,3,7
+734042,Eden Gardens,1,11,by wickets,Kolkata,31,1,7
+734044,"Punjab Cricket Association Stadium, Mohali",4,6,by wickets,Chandigarh,345,4,7
+734046,Wankhede Stadium,7,5,by wickets,Mumbai,372,7,7
+734048,Eden Gardens,4,1,by runs,Kolkata,232,1,7
+734050,Brabourne Stadium,3,7,by wickets,Mumbai,21,3,7
+734052,Wankhede Stadium,3,4,by runs,Mumbai,41,4,7
+734054,M Chinnaswamy Stadium,1,4,by wickets,Bangalore,96,1,7
+829710,Eden Gardens,1,7,by wickets,Kolkata,190,1,8
+829712,"MA Chidambaram Stadium, Chepauk",3,6,by runs,Chennai,73,3,8
+829714,Maharashtra Cricket Association Stadium,4,5,by runs,Pune,310,5,8
+829716,"MA Chidambaram Stadium, Chepauk",3,11,by runs,Chennai,2,3,8
+829718,Eden Gardens,1,2,by wickets,Kolkata,162,2,8
+829720,Feroz Shah Kotla,6,5,by wickets,Delhi,394,5,8
+829722,Wankhede Stadium,7,4,by runs,Mumbai,197,4,8
+829724,M Chinnaswamy Stadium,2,11,by wickets,Bangalore,187,11,8
+829726,"Sardar Patel Stadium, Motera",5,7,by wickets,Ahmedabad,306,5,8
+829728,Eden Gardens,1,3,by wickets,Kolkata,334,1,8
+829730,Maharashtra Cricket Association Stadium,4,6,by wickets,Pune,260,6,8
+829732,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,11,5,by wickets,Visakhapatnam,85,5,8
+829734,Wankhede Stadium,7,3,by wickets,Mumbai,73,3,8
+829736,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,11,6,by runs,Visakhapatnam,154,6,8
+829738,Maharashtra Cricket Association Stadium,4,1,by wickets,Pune,334,1,8
+829740,"Sardar Patel Stadium, Motera",5,3,by wickets,Ahmedabad,85,5,8
+829742,M Chinnaswamy Stadium,2,7,by runs,Bangalore,50,7,8
+829744,Feroz Shah Kotla,6,1,by wickets,Delhi,232,1,8
+829746,"Sardar Patel Stadium, Motera",5,4,Tie,Ahmedabad,100,4,8
+829748,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,11,1,by runs,Visakhapatnam,187,11,8
+829750,M Chinnaswamy Stadium,2,3,by runs,Bangalore,21,3,8
+829752,Feroz Shah Kotla,6,7,by runs,Delhi,393,6,8
+829754,"Sardar Patel Stadium, Motera",5,2,by wickets,Ahmedabad,378,2,8
+829756,Wankhede Stadium,7,11,by runs,Mumbai,194,7,8
+829758,"MA Chidambaram Stadium, Chepauk",3,4,by runs,Chennai,2,3,8
+829762,Feroz Shah Kotla,6,2,by wickets,Delhi,296,2,8
+829764,"Punjab Cricket Association Stadium, Mohali",4,11,by runs,Chandigarh,458,11,8
+829766,Eden Gardens,1,6,by runs,Kolkata,67,1,8
+829768,M Chinnaswamy Stadium,2,5,No Result,Bangalore,,,8
+829770,"MA Chidambaram Stadium, Chepauk",3,1,by runs,Chennai,71,3,8
+829772,Feroz Shah Kotla,6,4,by wickets,Delhi,371,6,8
+829774,Wankhede Stadium,7,5,by runs,Mumbai,208,7,8
+829776,M Chinnaswamy Stadium,2,1,by wickets,Bangalore,236,2,8
+829778,"Rajiv Gandhi International Stadium, Uppal",11,3,by runs,Hyderabad,187,11,8
+829780,"Punjab Cricket Association Stadium, Mohali",4,7,by runs,Chandigarh,383,7,8
+829782,Brabourne Stadium,5,6,by runs,Mumbai,85,5,8
+829784,"MA Chidambaram Stadium, Chepauk",3,2,by runs,Chennai,21,3,8
+829786,Eden Gardens,1,11,by runs,Kolkata,232,1,8
+829788,Wankhede Stadium,7,6,by wickets,Mumbai,50,7,8
+829790,M Chinnaswamy Stadium,2,4,by runs,Bangalore,162,2,8
+829792,Brabourne Stadium,5,11,by runs,Mumbai,216,11,8
+829794,"MA Chidambaram Stadium, Chepauk",3,7,by wickets,Chennai,400,7,8
+829796,Eden Gardens,1,4,by wickets,Kolkata,334,1,8
+829798,Shaheed Veer Narayan Singh International Stadium,6,11,by runs,Raipur,163,11,8
+829800,Wankhede Stadium,7,2,by runs,Mumbai,110,2,8
+829802,"MA Chidambaram Stadium, Chepauk",3,5,by runs,Chennai,35,3,8
+829804,"Rajiv Gandhi International Stadium, Uppal",11,4,by runs,Hyderabad,187,11,8
+829806,Shaheed Veer Narayan Singh International Stadium,6,3,by wickets,Raipur,15,6,8
+829808,"Punjab Cricket Association Stadium, Mohali",4,2,by runs,Chandigarh,374,4,8
+829810,Wankhede Stadium,7,1,by runs,Mumbai,400,7,8
+829812,"Rajiv Gandhi International Stadium, Uppal",11,2,by wickets,Hyderabad,8,2,8
+829814,"Punjab Cricket Association Stadium, Mohali",4,3,by wickets,Chandigarh,322,3,8
+829816,Brabourne Stadium,5,1,by runs,Mumbai,32,5,8
+829818,M Chinnaswamy Stadium,2,6,No Result,Bangalore,,,8
+829820,"Rajiv Gandhi International Stadium, Uppal",11,7,by wickets,Hyderabad,403,7,8
+829822,Wankhede Stadium,3,7,by runs,Mumbai,221,7,8
+829824,Maharashtra Cricket Association Stadium,2,5,by runs,Pune,110,2,8
+829826,JSCA International Stadium Complex,3,2,by wickets,Ranchi,73,3,8
+829828,Eden Gardens,7,3,by runs,Kolkata,57,7,8
+980906,Wankhede Stadium,7,12,by wickets,Mumbai,85,12,9
+980908,Eden Gardens,1,6,by wickets,Kolkata,334,1,9
+980910,"Punjab Cricket Association IS Bindra Stadium, Mohali",4,13,by wickets,Chandigarh,254,13,9
+980912,M Chinnaswamy Stadium,2,11,by runs,Bangalore,110,2,9
+980914,Eden Gardens,1,7,by wickets,Kolkata,57,7,9
+980916,Saurashtra Cricket Association Stadium,13,12,by wickets,Rajkot,254,13,9
+980918,Feroz Shah Kotla,6,4,by wickets,Delhi,136,6,9
+980920,"Rajiv Gandhi International Stadium, Uppal",11,1,by wickets,Hyderabad,40,1,9
+980922,Wankhede Stadium,7,13,by wickets,Mumbai,254,13,9
+980924,"Punjab Cricket Association IS Bindra Stadium, Mohali",4,12,by wickets,Chandigarh,345,4,9
+980926,M Chinnaswamy Stadium,2,6,by wickets,Bangalore,355,6,9
+980928,"Rajiv Gandhi International Stadium, Uppal",11,7,by wickets,Hyderabad,187,11,9
+980930,"Punjab Cricket Association IS Bindra Stadium, Mohali",4,1,by wickets,Chandigarh,46,1,9
+980932,Wankhede Stadium,7,2,by wickets,Mumbai,57,7,9
+980934,Saurashtra Cricket Association Stadium,13,11,by wickets,Rajkot,299,11,9
+980936,Maharashtra Cricket Association Stadium,12,2,by runs,Pune,110,2,9
+980938,Feroz Shah Kotla,6,7,by runs,Delhi,351,6,9
+980940,"Rajiv Gandhi International Stadium, Uppal",11,4,by wickets,Hyderabad,460,11,9
+980942,Saurashtra Cricket Association Stadium,13,2,by wickets,Rajkot,8,13,9
+980944,Maharashtra Cricket Association Stadium,12,1,by wickets,Pune,308,1,9
+980946,"Punjab Cricket Association IS Bindra Stadium, Mohali",4,7,by runs,Chandigarh,17,7,9
+980948,"Rajiv Gandhi International Stadium, Uppal",11,12,by runs,Hyderabad,106,12,9
+980950,Feroz Shah Kotla,6,13,by runs,Delhi,350,13,9
+980952,Wankhede Stadium,7,1,by wickets,Mumbai,57,7,9
+980954,Maharashtra Cricket Association Stadium,12,13,by wickets,Pune,147,13,9
+980956,Feroz Shah Kotla,6,1,by runs,Delhi,408,6,9
+980958,"Rajiv Gandhi International Stadium, Uppal",11,2,by runs,Hyderabad,187,11,9
+980960,Saurashtra Cricket Association Stadium,13,4,by runs,Rajkot,374,4,9
+980962,Maharashtra Cricket Association Stadium,12,7,by wickets,Pune,57,7,9
+980964,M Chinnaswamy Stadium,2,1,by wickets,Bangalore,334,1,9
+980966,Saurashtra Cricket Association Stadium,13,6,by wickets,Rajkot,420,6,9
+980968,Eden Gardens,1,4,by runs,Kolkata,334,1,9
+980970,Feroz Shah Kotla,6,12,by wickets,Delhi,85,12,9
+980972,"Rajiv Gandhi International Stadium, Uppal",11,13,by wickets,Hyderabad,299,11,9
+980974,M Chinnaswamy Stadium,2,12,by wickets,Bangalore,8,2,9
+980976,"Punjab Cricket Association IS Bindra Stadium, Mohali",4,6,by runs,Chandigarh,409,4,9
+980978,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,7,11,by runs,Visakhapatnam,73,11,9
+980980,Eden Gardens,1,13,by wickets,Kolkata,14,13,9
+980982,"Punjab Cricket Association IS Bindra Stadium, Mohali",4,2,by runs,Chandigarh,32,2,9
+980984,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,12,11,by runs,Visakhapatnam,430,11,9
+980986,M Chinnaswamy Stadium,2,7,by wickets,Bangalore,413,7,9
+980988,"Rajiv Gandhi International Stadium, Uppal",11,6,by wickets,Hyderabad,350,6,9
+980990,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,7,4,by wickets,Visakhapatnam,409,4,9
+980992,M Chinnaswamy Stadium,2,13,by runs,Bangalore,110,2,9
+980994,Eden Gardens,1,12,by wickets,Kolkata,31,1,9
+980996,"Punjab Cricket Association IS Bindra Stadium, Mohali",4,11,by wickets,Chandigarh,427,11,9
+980998,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,7,6,by runs,Visakhapatnam,413,7,9
+981000,Eden Gardens,1,2,by wickets,Kolkata,8,2,9
+981002,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,12,6,by runs,Visakhapatnam,106,12,9
+981004,M Chinnaswamy Stadium,2,4,by runs,Bangalore,8,2,9
+981006,Green Park,13,1,by wickets,Kanpur,147,13,9
+981008,Shaheed Veer Narayan Singh International Stadium,6,11,by wickets,Raipur,339,6,9
+981010,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,12,4,by wickets,Visakhapatnam,20,12,9
+981012,Green Park,13,7,by wickets,Kanpur,21,13,9
+981014,Eden Gardens,1,11,by runs,Kolkata,31,1,9
+981016,Shaheed Veer Narayan Singh International Stadium,6,2,by wickets,Raipur,8,2,9
+981018,M Chinnaswamy Stadium,13,2,by wickets,Bangalore,110,2,9
+981020,Feroz Shah Kotla,11,1,by runs,Delhi,163,11,9
+981022,Feroz Shah Kotla,13,11,by wickets,Delhi,187,11,9
+981024,M Chinnaswamy Stadium,2,11,by runs,Bangalore,385,11,9
